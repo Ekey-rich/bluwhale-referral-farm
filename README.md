@@ -4,4 +4,5 @@ the script is in multi-thread mode in the browser automation studio program, in 
 2) download my script
 3) enter the referral link, the number of streams, how many referrals we need, and the proxy folder.
 4) run the script
+
 P.S: if something freezes, just restart the script.
